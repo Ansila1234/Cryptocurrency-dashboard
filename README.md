@@ -1,5 +1,6 @@
 # Cryptocurrency Market Analysis Dashboard
 
+[Link to Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTE5YzExZTQtNjcyNi00MjE3LWI2NTktODMzMTdhZGMwMTQ3IiwidCI6ImU5ODE4OTYxLTJkN2QtNGMwYS05ZGQ1LTI1MmRiYmM2ZWNkZiJ9)
 ## Overview
 This project is an interactive Cryptocurrency Market Analysis Dashboard designed using Power BI. The dashboard provides comprehensive insights into the market capitalization, trading volumes, and price trends of major cryptocurrencies from 2015 to 2021. It's an essential tool for anyone looking to analyze market trends and make informed decisions in the cryptocurrency space.
 
